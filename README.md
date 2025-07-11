@@ -57,8 +57,8 @@ This project is a binary image classification model built using **Convolutional 
 ---
 
 ## ✅ Conclusion
-This project successfully demonstrates the power of Convolutional Neural Networks (CNN) for binary image classification. By training a deep learning model using TensorFlow and Keras, we were able to accurately distinguish between dog and cat images. The use of ImageDataGenerator for real-time data augmentation helped improve generalization and model performance.
+- This project successfully demonstrates the power of **Convolutional Neural Networks (CNN)** for binary image classification. By training a deep learning model using **TensorFlow and Keras**, we were able to accurately distinguish between dog and cat images. The use of **ImageDataGenerator** for real-time data augmentation helped improve generalization and model performance.
 
-The model achieved reliable accuracy and showed promising results on unseen images, making it suitable for further extension or deployment. This foundational project highlights the effectiveness of deep learning in solving real-world computer vision tasks and serves as a stepping stone for more advanced image classification problems or transfer learning applications.
+- The model achieved reliable accuracy and showed promising results on unseen images, making it suitable for further extension or deployment. This foundational project highlights the effectiveness of deep learning in solving real-world computer vision tasks and serves as a stepping stone for more advanced image classification problems or transfer learning applications.
 
 
